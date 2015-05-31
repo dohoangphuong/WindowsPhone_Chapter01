@@ -1,0 +1,19 @@
+D:\Hoc Tap\Visual Studio\WindowsPhone\Session01\WindowsPhone_Chapter01\Chapter04-Save_Open file Image Uri to Web\Bin\Debug\Assets\ApplicationIcon.png
+D:\Hoc Tap\Visual Studio\WindowsPhone\Session01\WindowsPhone_Chapter01\Chapter04-Save_Open file Image Uri to Web\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\Hoc Tap\Visual Studio\WindowsPhone\Session01\WindowsPhone_Chapter01\Chapter04-Save_Open file Image Uri to Web\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\Hoc Tap\Visual Studio\WindowsPhone\Session01\WindowsPhone_Chapter01\Chapter04-Save_Open file Image Uri to Web\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\Hoc Tap\Visual Studio\WindowsPhone\Session01\WindowsPhone_Chapter01\Chapter04-Save_Open file Image Uri to Web\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\Hoc Tap\Visual Studio\WindowsPhone\Session01\WindowsPhone_Chapter01\Chapter04-Save_Open file Image Uri to Web\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\Hoc Tap\Visual Studio\WindowsPhone\Session01\WindowsPhone_Chapter01\Chapter04-Save_Open file Image Uri to Web\Bin\Debug\Chapter04-Save_Open file Image Uri to Web.dll
+D:\Hoc Tap\Visual Studio\WindowsPhone\Session01\WindowsPhone_Chapter01\Chapter04-Save_Open file Image Uri to Web\Bin\Debug\Chapter04-Save_Open file Image Uri to Web.pdb
+D:\Hoc Tap\Visual Studio\WindowsPhone\Session01\WindowsPhone_Chapter01\Chapter04-Save_Open file Image Uri to Web\Bin\Debug\AppManifest.xaml
+D:\Hoc Tap\Visual Studio\WindowsPhone\Session01\WindowsPhone_Chapter01\Chapter04-Save_Open file Image Uri to Web\Bin\Debug\Properties\WMAppManifest.xml
+D:\Hoc Tap\Visual Studio\WindowsPhone\Session01\WindowsPhone_Chapter01\Chapter04-Save_Open file Image Uri to Web\Bin\Debug\Chapter04_Save_Open_file_Image_Uri_to_Web_Debug_AnyCPU.xap
+D:\Hoc Tap\Visual Studio\WindowsPhone\Session01\WindowsPhone_Chapter01\Chapter04-Save_Open file Image Uri to Web\obj\Debug\App.g.cs
+D:\Hoc Tap\Visual Studio\WindowsPhone\Session01\WindowsPhone_Chapter01\Chapter04-Save_Open file Image Uri to Web\obj\Debug\MainPage.g.cs
+D:\Hoc Tap\Visual Studio\WindowsPhone\Session01\WindowsPhone_Chapter01\Chapter04-Save_Open file Image Uri to Web\obj\Debug\Chapter04-Save_Open file Image Uri to Web.g.resources
+D:\Hoc Tap\Visual Studio\WindowsPhone\Session01\WindowsPhone_Chapter01\Chapter04-Save_Open file Image Uri to Web\obj\Debug\Chapter04_Save_Open_file_Image_Uri_to_Web.Resources.AppResources.resources
+D:\Hoc Tap\Visual Studio\WindowsPhone\Session01\WindowsPhone_Chapter01\Chapter04-Save_Open file Image Uri to Web\obj\Debug\Chapter04-Save_Open file Image Uri to Web.csproj.GenerateResource.Cache
+D:\Hoc Tap\Visual Studio\WindowsPhone\Session01\WindowsPhone_Chapter01\Chapter04-Save_Open file Image Uri to Web\obj\Debug\Chapter04-Save_Open file Image Uri to Web.dll
+D:\Hoc Tap\Visual Studio\WindowsPhone\Session01\WindowsPhone_Chapter01\Chapter04-Save_Open file Image Uri to Web\obj\Debug\Chapter04-Save_Open file Image Uri to Web.pdb
+D:\Hoc Tap\Visual Studio\WindowsPhone\Session01\WindowsPhone_Chapter01\Chapter04-Save_Open file Image Uri to Web\obj\Debug\XapCacheFile.xml

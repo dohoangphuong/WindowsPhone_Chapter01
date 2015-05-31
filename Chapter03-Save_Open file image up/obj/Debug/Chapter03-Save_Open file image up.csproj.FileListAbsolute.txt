@@ -1,0 +1,19 @@
+D:\Hoc Tap\Visual Studio\WindowsPhone\Session01\WindowsPhone_Chapter01\Chapter03-Save_Open file image up\Bin\Debug\Assets\ApplicationIcon.png
+D:\Hoc Tap\Visual Studio\WindowsPhone\Session01\WindowsPhone_Chapter01\Chapter03-Save_Open file image up\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\Hoc Tap\Visual Studio\WindowsPhone\Session01\WindowsPhone_Chapter01\Chapter03-Save_Open file image up\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\Hoc Tap\Visual Studio\WindowsPhone\Session01\WindowsPhone_Chapter01\Chapter03-Save_Open file image up\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\Hoc Tap\Visual Studio\WindowsPhone\Session01\WindowsPhone_Chapter01\Chapter03-Save_Open file image up\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\Hoc Tap\Visual Studio\WindowsPhone\Session01\WindowsPhone_Chapter01\Chapter03-Save_Open file image up\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\Hoc Tap\Visual Studio\WindowsPhone\Session01\WindowsPhone_Chapter01\Chapter03-Save_Open file image up\Bin\Debug\Chapter03-Save_Open file image up.dll
+D:\Hoc Tap\Visual Studio\WindowsPhone\Session01\WindowsPhone_Chapter01\Chapter03-Save_Open file image up\Bin\Debug\Chapter03-Save_Open file image up.pdb
+D:\Hoc Tap\Visual Studio\WindowsPhone\Session01\WindowsPhone_Chapter01\Chapter03-Save_Open file image up\Bin\Debug\AppManifest.xaml
+D:\Hoc Tap\Visual Studio\WindowsPhone\Session01\WindowsPhone_Chapter01\Chapter03-Save_Open file image up\Bin\Debug\Properties\WMAppManifest.xml
+D:\Hoc Tap\Visual Studio\WindowsPhone\Session01\WindowsPhone_Chapter01\Chapter03-Save_Open file image up\Bin\Debug\Chapter03_Save_Open_file_image_up_Debug_AnyCPU.xap
+D:\Hoc Tap\Visual Studio\WindowsPhone\Session01\WindowsPhone_Chapter01\Chapter03-Save_Open file image up\obj\Debug\App.g.cs
+D:\Hoc Tap\Visual Studio\WindowsPhone\Session01\WindowsPhone_Chapter01\Chapter03-Save_Open file image up\obj\Debug\MainPage.g.cs
+D:\Hoc Tap\Visual Studio\WindowsPhone\Session01\WindowsPhone_Chapter01\Chapter03-Save_Open file image up\obj\Debug\Chapter03-Save_Open file image up.g.resources
+D:\Hoc Tap\Visual Studio\WindowsPhone\Session01\WindowsPhone_Chapter01\Chapter03-Save_Open file image up\obj\Debug\Chapter03_Save_Open_file_image_up.Resources.AppResources.resources
+D:\Hoc Tap\Visual Studio\WindowsPhone\Session01\WindowsPhone_Chapter01\Chapter03-Save_Open file image up\obj\Debug\Chapter03-Save_Open file image up.csproj.GenerateResource.Cache
+D:\Hoc Tap\Visual Studio\WindowsPhone\Session01\WindowsPhone_Chapter01\Chapter03-Save_Open file image up\obj\Debug\Chapter03-Save_Open file image up.dll
+D:\Hoc Tap\Visual Studio\WindowsPhone\Session01\WindowsPhone_Chapter01\Chapter03-Save_Open file image up\obj\Debug\Chapter03-Save_Open file image up.pdb
+D:\Hoc Tap\Visual Studio\WindowsPhone\Session01\WindowsPhone_Chapter01\Chapter03-Save_Open file image up\obj\Debug\XapCacheFile.xml

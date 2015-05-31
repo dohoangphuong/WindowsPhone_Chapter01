@@ -1,0 +1,5 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="Chapter04-Save_Open file Image Uri to Web" EntryPointType="Chapter04_Save_Open_file_Image_Uri_to_Web.App" RuntimeVersion="4.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="Chapter04-Save_Open file Image Uri to Web" Source="Chapter04-Save_Open file Image Uri to Web.dll" />
+  </Deployment.Parts>
+</Deployment>

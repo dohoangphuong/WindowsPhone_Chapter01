@@ -1,0 +1,5 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="Chapter03-Save_Open file image up" EntryPointType="Chapter03_Save_Open_file_image_up.App" RuntimeVersion="4.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="Chapter03-Save_Open file image up" Source="Chapter03-Save_Open file image up.dll" />
+  </Deployment.Parts>
+</Deployment>

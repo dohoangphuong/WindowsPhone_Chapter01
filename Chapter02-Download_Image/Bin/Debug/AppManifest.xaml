@@ -1,0 +1,5 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="Chapter02-Download_Image" EntryPointType="Chapter02_Download_Image.App" RuntimeVersion="4.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="Chapter02-Download_Image" Source="Chapter02-Download_Image.dll" />
+  </Deployment.Parts>
+</Deployment>
