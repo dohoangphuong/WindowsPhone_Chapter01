@@ -22,7 +22,7 @@ namespace Chapter05_VS03_Multiple_screen_Url_web
         public MainPage()
         {
             InitializeComponent();
-            LoadImage(41);
+            LoadImage(36);
         }
         //http://st.vechai.info/2014/12/2120/O-Long-Vien-chap-2-18102-html-40.jpg
         private void LoadImage(int countImage)
